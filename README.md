@@ -1,12 +1,103 @@
-<h3 align="center">Chileno apasionado por TI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avecesar1981" alt="avecesar1981" /> </p>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avecesar1981&layout=compact&hide=html" alt="avecesar1981" /></p>
+![headerTwitter](https://user-images.githubusercontent.com/69849664/112338192-e2b32c00-8cbe-11eb-81f3-fb8d8febb4a9.PNG)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avecesar1981&show_icons=true" alt="avecesar1981" /></p>
 
-<p align="center">
-<a href="https://dev.to/@avecesar1981" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@avecesar1981" height="30" width="30" /></a>
-<a href="https://twitter.com/@0_0avecesar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@0_0avecesar" height="30" width="30" /></a>
-</p>
+<div align="center">
+  
+# :wave: **Hi there! I'm César!** 
+
+</div>
+
+<div align="left">
+
+## :man_technologist: &nbsp;About Me:
+
+
+
+:computer: **Front end developer** with HTML, CSS, JS and React, and visual design skills.  
+:pushpin: Currently learning about **UX/UI** and **web design**.  
+:chart: Professional experience as **pricing analyst, budgeting and forecasting**.  
+:briefcase: I have been team **coordinator** in IT projects, which has given me experience in **problem solving**, **organization**, **empathy** and **team motivation**.  
+:art: I consider myself a **creative** person and I love **challenges**.  
+
+</div> 
+
+---
+
+<span align="center">
+
+## 🛠 &nbsp;Tech Stack:
+</span>
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+
+
+<span align="right">
+
+### :toolbox: &nbsp;Other frequently used tools:
+
+
+
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
+![Zeplin](https://img.shields.io/badge/-Zeplin-05122A?style=flat&logo=zeplin)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;   
+
+
+</span>
+
+---   
+
+## ⚙️ &nbsp;GitHub Analytics:
+
+<div align="center">
+
+![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
+![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)   
+
+</div>
+
+---
+
+<div align="center">
+
+## :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
+
+
+
+[![Twitter](https://img.shields.io/twitter/follow/im_martreyz?label=Twitter&style=social)&nbsp;](https://twitter.com/im_martreyz)
+[![Github](https://img.shields.io/github/followers/martreyz?label=Github&style=social)&nbsp;](https://github.com/martreyz)
+[![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:martreyz@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-martareyrodriguez-05122A?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/martareyrodriguez/?locale=es_ES)
+[![Codepen](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/martreyz)
+[![Hackerrank](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/martreyz)   
+[![Portfolio](https://img.shields.io/website?color=red&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fmartreyz.github.io%2Fportfolio)](https://martreyz.github.io/portfolio/#/)
+
+</div>
+
+
+
+
+
+
+
+![mosaicodownrealGH](https://user-images.githubusercontent.com/69849664/110167698-67b0d100-7df6-11eb-93d7-020dc7d5acf2.png)
