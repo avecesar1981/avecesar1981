@@ -71,8 +71,8 @@
 
 <div align="center">
 
-![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
-![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)   
+![avecesar1981 GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
+![avecesar1981 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)   
 
 </div>
 
@@ -84,7 +84,7 @@
 
 
 
-[![Twitter](https://img.shields.io/twitter/follow/im_martreyz?label=Twitter&style=social)&nbsp;](https://twitter.com/im_martreyz)
+[![Twitter](https://img.shields.io/twitter/follow/0_0avecesar?label=Twitter&style=social)&nbsp;](https://twitter.com/0_0avecesar)
 [![Github](https://img.shields.io/github/followers/martreyz?label=Github&style=social)&nbsp;](https://github.com/martreyz)
 [![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:martreyz@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-martareyrodriguez-05122A?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/martareyrodriguez/?locale=es_ES)
