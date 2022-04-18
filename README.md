@@ -79,13 +79,13 @@
 
 <div align="center">
 
-## :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
+## :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! :musical_note::
 
 
 
 [![Twitter](https://img.shields.io/twitter/follow/0_0avecesar?label=Twitter&style=social)&nbsp;](https://twitter.com/0_0avecesar)
 [![Github](https://img.shields.io/github/followers/avecesar1981?label=Github&style=social)&nbsp;](https://github.com/avecesar1981)
-[![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:crruiz1981@gmail.com)
+[![Email](https://img.shields.io/badge/-crruiz1981@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:crruiz1981@gmail.com)
 [![Linkedin](https://img.shields.io/badge/césar-ruiz-9077251b8?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/)
 [![Codepen](https://img.shields.io/badge/-@avecesar-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/avecesar)  
 [![Portfolio](https://img.shields.io/website?color=red&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fmartreyz.github.io%2Fportfolio)](https://github.com/avecesar1981?tab=repositories)
