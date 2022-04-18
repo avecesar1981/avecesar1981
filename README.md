@@ -1,6 +1,6 @@
 
 
-![headerTwitter](https://user-images.githubusercontent.com/69849664/112338192-e2b32c00-8cbe-11eb-81f3-fb8d8febb4a9.PNG)
+![headerTwitter](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg)
 
 
 <div align="center">
@@ -17,8 +17,7 @@
 
 :computer: **Front end developer** with HTML, CSS, JS and React, and visual design skills.  
 :pushpin: Currently learning about **UX/UI** and **web design**.  
-:chart: Professional experience as **pricing analyst, budgeting and forecasting**.  
-:briefcase: I have been team **coordinator** in IT projects, which has given me experience in **problem solving**, **organization**, **empathy** and **team motivation**.  
+:chart: Professional experience as **web development freelance**.  
 :art: I consider myself a **creative** person and I love **challenges**.  
 
 </div> 
@@ -71,8 +70,8 @@
 
 <div align="center">
 
-![avecesar1981 GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
-![avecesar1981 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)   
+![avecesar1981 GitHub stats](https://github-readme-stats.vercel.app/api?username=avecesar1981&show_icons=true&theme=onedark&layout=compact)
+![avecesar1981 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avecesar1981&theme=onedark&layout=compact)   
 
 </div>
 
@@ -85,12 +84,11 @@
 
 
 [![Twitter](https://img.shields.io/twitter/follow/0_0avecesar?label=Twitter&style=social)&nbsp;](https://twitter.com/0_0avecesar)
-[![Github](https://img.shields.io/github/followers/martreyz?label=Github&style=social)&nbsp;](https://github.com/martreyz)
-[![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:martreyz@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-martareyrodriguez-05122A?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/martareyrodriguez/?locale=es_ES)
-[![Codepen](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/martreyz)
-[![Hackerrank](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/martreyz)   
-[![Portfolio](https://img.shields.io/website?color=red&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fmartreyz.github.io%2Fportfolio)](https://martreyz.github.io/portfolio/#/)
+[![Github](https://img.shields.io/github/followers/avecesar1981?label=Github&style=social)&nbsp;](https://github.com/avecesar1981)
+[![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:crruiz1981@gmail.com)
+[![Linkedin](https://img.shields.io/badge/césar-ruiz-9077251b8?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/)
+[![Codepen](https://img.shields.io/badge/-@avecesar-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/avecesar)  
+[![Portfolio](https://img.shields.io/website?color=red&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fmartreyz.github.io%2Fportfolio)](https://github.com/avecesar1981?tab=repositories)
 
 </div>
 
