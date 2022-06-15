@@ -5,21 +5,25 @@
 
 <div align="center">
   
-# :wave: **Hi there! I'm César!** 
+# :wave: **Hola! me llamo César!** 
 
 </div>
 
 <div align="left">
 
-## :man_technologist: &nbsp;About Me:
+## :man_technologist: &nbsp;Sobre mí:
 
 
 
-:computer: **Frontend developer** with HTML, CSS, JS and React  , and visual design skills.
-:candy: **Backend developer** with Nodejs, express, mysql, mongodb.
-:pushpin: Currently learning about **Dockers** and **web design**.  
-:chart: Professional experience as **web development freelance**.  
-:art: I consider myself a **creative** person and I love **challenges**.  
+:computer: **Frontend developer** with HTML, CSS, JS and React  , and visual design skills.&nbsp;
+  
+:candy: **Backend developer** with Nodejs, express, mysql, mongodb.&nbsp;
+  
+:pushpin: Currently learning about **Dockers** and **web design**.&nbsp;
+  
+:chart: Professional experience as **web development freelance**.&nbsp;
+  
+:art: I consider myself a **creative** person and I love **challenges**. &nbsp; 
 
 </div> 
 
