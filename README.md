@@ -15,15 +15,15 @@
 
 
 
-:computer: **Frontend developer** with HTML, CSS, JS and React  , and visual design skills.&nbsp;
+:computer: **Desarrollo Frontend** en  HTML, CSS, JS and React.&nbsp;
   
-:candy: **Backend developer** with Nodejs, express, mysql, mongodb.&nbsp;
+:candy: **desarrollo backend** en Nodejs, express, mysql, mongodb.&nbsp;
   
-:pushpin: Currently learning about **Dockers** and **web design**.&nbsp;
+:pushpin: Actualmente en aprendizaje:  **Dockers** and **Diseño Web**.&nbsp;
   
-:chart: Professional experience as **web development freelance**.&nbsp;
+:chart: Experiencia Profesional como **Desarrollo Web Freelance**.&nbsp;
   
-:art: I consider myself a **creative** person and I love **challenges**. &nbsp; 
+:art: Me considero una persona creativa y adaptativa que le encanta estar en constante aprendizaje. &nbsp; 
 
 </div> 
 
@@ -54,7 +54,7 @@
 
 <span align="right">
 
-### :toolbox: &nbsp;Other frequently used tools:
+### :toolbox: &nbsp;Otras herramientas que uso frecuentemente:
 
 
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-## :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! :musical_note::
+## :call_me_hand: &nbsp;Aquí encontrarás mis datos de contacto... :musical_note::
 
 
 
