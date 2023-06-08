@@ -31,7 +31,7 @@
 
 <span align="center">
 
-## 🛠 &nbsp;Tech Stack:
+## 🛠 &nbsp;Conocimento de tecnologías en:
 </span>
 
 
