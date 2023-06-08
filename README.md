@@ -17,7 +17,7 @@
 
 :computer: **Desarrollo Frontend** en  HTML, CSS, JS and React.&nbsp;
   
-:candy: **desarrollo backend** en Nodejs, express, mysql, mongodb.&nbsp;
+:candy: **Desarrollo Backend** en Nodejs, express, mysql, mongodb.&nbsp;
   
 :pushpin: Actualmente en aprendizaje:  **Dockers** and **Diseño Web**.&nbsp;
   
