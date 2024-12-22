@@ -92,7 +92,7 @@
 [![Email](https://img.shields.io/badge/-crruiz1981@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:crruiz1981@gmail.com)
 [![Linkedin](https://img.shields.io/badge/césar-ruiz-9077251b8?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/)
 [![Codepen](https://img.shields.io/badge/-@avecesar-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/avecesar)  
-[![Portfolio](https://img.shields.io/website?color=red&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fmartreyz.github.io%2Fportfolio)](https://github.com/avecesar1981?tab=repositories)
+[![Portfolio]([https://img.shields.io/website?color=red&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fmartreyz.github.io%2Fportfolio](https://cruiz.cl/cruiz/hire-me/))](https://github.com/avecesar1981?tab=repositories)
 
 </div>
 
