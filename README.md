@@ -19,7 +19,7 @@
   
 :candy: **Desarrollo Backend** en Nodejs, express, mysql, mongodb.&nbsp;
   
-:pushpin: Actualmente en aprendizaje:  **Dockers** and **Diseño Web**.&nbsp;
+:pushpin: Actualmente en aprendizaje:  **Dockers** y **Diseño Web**.&nbsp;
   
 :chart: Experiencia Profesional como **Desarrollo Web Freelance**.&nbsp;
   
