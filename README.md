@@ -1,105 +1,125 @@
 
 
-![headerTwitter](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg)
-
-
 <div align="center">
-  
-# :wave: **Hola! me llamo César!** 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hola,%20soy%20C%C3%A9sar%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20JavaScript&descAlignY=58&descAlign=50" width="100%"/>
+
+<a href="https://twitter.com/0_0avecesar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:contacto@cruiz.cl"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://cruiz.cl/cruiz/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
-<div align="left">
+<br/>
 
-## :man_technologist: &nbsp;Sobre mí:
+## 🧑‍💻 Sobre mí
 
+```python
+class Cesar:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.location = "Chile 🇨🇱"
+        self.stack = ["Python", "JavaScript", "FastAPI", "Next.js", "React Native"]
+        self.focus = "Aplicaciones web y móviles end-to-end"
+        self.always_learning = True
 
+    def say_hi(self):
+        print("¡Gracias por pasar por mi perfil! Construyo productos completos:")
+        print("desde la base de datos hasta la última pantalla del usuario.")
+```
 
-:computer: **Desarrollo Frontend** en  HTML, CSS, JS and React.&nbsp;
-  
-:candy: **Desarrollo Backend** en Nodejs, express, mysql, mongodb.&nbsp;
-  
-:pushpin: Actualmente en aprendizaje:  **Dockers** y **Diseño Web**.&nbsp;
-  
-:chart: Experiencia Profesional como **Desarrollo Web Freelance**.&nbsp;
-  
-:art: Me considero una persona creativa y adaptativa que le encanta estar en constante aprendizaje. &nbsp; 
+- 🚀 Desarrollo aplicaciones **full stack**, desde el backend hasta la interfaz final.
+- 🐍 Trabajo principalmente con **Python** y **JavaScript**, aunque me adapto a la herramienta que el proyecto necesite.
+- 📱 Experiencia reciente construyendo apps **offline-first** para Android y sitios web con **ecommerce y panel de administración**.
+- 🌱 En constante aprendizaje de nuevas arquitecturas y buenas prácticas de DevOps.
+- 💬 Disponible para proyectos freelance y colaboraciones.
 
-</div> 
+<br/>
 
----
-
-<span align="center">
-
-## 🛠 &nbsp;Conocimento de tecnologías en:
-</span>
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-insomnia-05122A?style=flat&logo=insomnia)&nbsp;
-![Mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-
-<span align="right">
-
-### :toolbox: &nbsp;Otras herramientas que uso frecuentemente:
-
-
-
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;   
-
-
-</span>
-
----   
-
-## ⚙️ &nbsp;GitHub Analytics:
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-![avecesar1981 GitHub stats](https://github-readme-stats.vercel.app/api?username=avecesar1981&show_icons=true&theme=onedark&layout=compact)
-![avecesar1981 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avecesar1981&theme=onedark&layout=compact)   
+### Lenguajes & Frameworks
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+### Bases de datos & Infraestructura
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+### Estilos & UI
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+
+### Herramientas
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 
 </div>
 
----
+<br/>
+
+## 🚀 Proyectos destacados
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🍇 Moscin Coop
+Sitio web profesional para una cooperativa vitivinícola chilena del Valle del Itata, con ecommerce, autenticación de usuarios y panel de administración.
+
+`Next.js` `Tailwind CSS` `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 ScanStock
+App móvil de gestión de inventario **offline-first** para Android, pensada para operar sin conexión y sincronizar datos de forma confiable.
+
+`React Native (Expo)` `FastAPI` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-## :call_me_hand: &nbsp;Aquí encontrarás mis datos de contacto... :musical_note::
+<img src="https://github-readme-stats.vercel.app/api?username=avecesar1981&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avecesar1981&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
+<br/>
 
-
-[![Twitter](https://img.shields.io/twitter/follow/0_0avecesar?label=Twitter&style=social)&nbsp;](https://twitter.com/0_0avecesar)
-[![Github](https://img.shields.io/github/followers/avecesar1981?label=Github&style=social)&nbsp;](https://github.com/avecesar1981)
-[![Email](https://img.shields.io/badge/-contacto@cruiz.cl-05122A?style=flat&logo=gmail&color=grey)](mailto:contacto@cruiz.cl)
-[![Linkedin](https://img.shields.io/badge/césar-ruiz-9077251b8?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/)
-[![Codepen](https://img.shields.io/badge/-@avecesar-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/avecesar)  
-[![Sitio web](https://cruiz.cl/cruiz/wp-content/uploads/2024/12/3.png)](https://cruiz.cl/cruiz/)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avecesar1981&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
+<br/>
 
+<div align="center">
 
+### 🤝 ¡Conectemos!
 
+Si quieres conversar sobre un proyecto, colaborar o simplemente intercambiar ideas, no dudes en escribirme.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer"/>
 
-
-![mosaicodownrealGH](https://user-images.githubusercontent.com/69849664/110167698-67b0d100-7df6-11eb-93d7-020dc7d5acf2.png)
+</div>
