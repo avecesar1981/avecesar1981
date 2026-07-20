@@ -1,125 +1,349 @@
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hola,%20soy%20C%C3%A9sar%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20JavaScript&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=240&section=header&text=Cesar%20Ruiz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Construyendo%20productos%20end-to-end&descAlignY=54&descAlign=50" width="100%">
 
-<a href="https://twitter.com/0_0avecesar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:contacto@cruiz.cl"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://cruiz.cl/cruiz/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<br/>
+
+<a href="https://twitter.com/0_0avecesar">
+  <img src="https://img.shields.io/badge/Twitter-0F2027?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;
+<a href="mailto:contacto@cruiz.cl">
+  <img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>&nbsp;
+<a href="https://cruiz.cl/cruiz/">
+  <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=0F2027" alt="Portfolio">
+</a>
 
 </div>
 
 <br/>
 
-## 🧑‍💻 Sobre mí
+<!-- SOBRE MI -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" height="20" alt="link">
+  &nbsp;
+  <b style="font-size: 20px; color: #2C5364; letter-spacing: 2px; text-transform: uppercase;">Sobre mi</b>
+</div>
+
+<br/>
 
 ```python
 class Cesar:
+    """Full Stack Developer basado en Chile."""
+
     def __init__(self):
         self.role = "Full Stack Developer"
-        self.location = "Chile 🇨🇱"
-        self.stack = ["Python", "JavaScript", "FastAPI", "Next.js", "React Native"]
-        self.focus = "Aplicaciones web y móviles end-to-end"
+        self.location = "Chile"
+        self.stack = {
+            "languages": ["Python", "JavaScript"],
+            "backend": ["FastAPI", "Node.js"],
+            "frontend": ["Next.js", "React", "React Native"],
+        }
+        self.focus = (
+            "Aplicaciones web y moviles end-to-end, "
+            "desde la base de datos hasta la ultima pantalla del usuario."
+        )
         self.always_learning = True
 
-    def say_hi(self):
-        print("¡Gracias por pasar por mi perfil! Construyo productos completos:")
-        print("desde la base de datos hasta la última pantalla del usuario.")
+    def build(self, product):
+        return f"Construyendo {product} con arquitectura limpia y experiencia de usuario solida."
+
+    def collaborate(self):
+        return "Disponible para proyectos freelance y colaboraciones."
 ```
 
-- 🚀 Desarrollo aplicaciones **full stack**, desde el backend hasta la interfaz final.
-- 🐍 Trabajo principalmente con **Python** y **JavaScript**, aunque me adapto a la herramienta que el proyecto necesite.
-- 📱 Experiencia reciente construyendo apps **offline-first** para Android y sitios web con **ecommerce y panel de administración**.
-- 🌱 En constante aprendizaje de nuevas arquitecturas y buenas prácticas de DevOps.
-- 💬 Disponible para proyectos freelance y colaboraciones.
+<div align="justify" style="color: #555; line-height: 1.7;">
 
-<br/>
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### Lenguajes & Frameworks
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-### Bases de datos & Infraestructura
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-### Estilos & UI
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-
-### Herramientas
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+Desarrollo aplicaciones full stack con foco en **Python** y **JavaScript**. Experiencia construyendo apps offline-first para Android, plataformas ecommerce, y paneles de administracion completos. Me adapto a la herramienta que el proyecto necesite, priorizando arquitecturas limpias y buenas practicas de DevOps.
 
 </div>
 
 <br/>
 
-## 🚀 Proyectos destacados
+<!-- DIVIDER -->
+<svg width="100%" height="24" viewBox="0 0 1200 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="12" x2="480" y2="12" stroke="url(#grad1)" stroke-width="1" stroke-dasharray="4 4"/>
+  <circle cx="600" cy="12" r="4" fill="#00C9A7"/>
+  <line x1="720" y1="12" x2="1200" y2="12" stroke="url(#grad2)" stroke-width="1" stroke-dasharray="4 4"/>
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2C5364"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+</svg>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🍇 Moscin Coop
-Sitio web profesional para una cooperativa vitivinícola chilena del Valle del Itata, con ecommerce, autenticación de usuarios y panel de administración.
+<!-- STACK TECNOLOGICO -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" height="20" alt="gear">
+  &nbsp;
+  <b style="font-size: 20px; color: #2C5364; letter-spacing: 2px; text-transform: uppercase;">Stack Tecnologico</b>
+</div>
 
-`Next.js` `Tailwind CSS` `Framer Motion`
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-### 📦 ScanStock
-App móvil de gestión de inventario **offline-first** para Android, pensada para operar sin conexión y sincronizar datos de forma confiable.
-
-`React Native (Expo)` `FastAPI` `PostgreSQL`
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <sub><b style="color: #2C5364; font-size: 13px; letter-spacing: 1px;">LENGUAJES</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=00C9A7" alt="Python"><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0F2027?style=flat-square&logo=javascript&logoColor=00C9A7" alt="JavaScript"><br/>
+      <img src="https://img.shields.io/badge/TypeScript-0F2027?style=flat-square&logo=typescript&logoColor=00C9A7" alt="TypeScript">
+    </td>
+    <td align="center" width="25%" valign="top">
+      <sub><b style="color: #2C5364; font-size: 13px; letter-spacing: 1px;">BACKEND</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-0F2027?style=flat-square&logo=fastapi&logoColor=00C9A7" alt="FastAPI"><br/>
+      <img src="https://img.shields.io/badge/Node.js-0F2027?style=flat-square&logo=node.js&logoColor=00C9A7" alt="Node.js"><br/>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <sub><b style="color: #2C5364; font-size: 13px; letter-spacing: 1px;">FRONTEND</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-0F2027?style=flat-square&logo=next.js&logoColor=00C9A7" alt="Next.js"><br/>
+      <img src="https://img.shields.io/badge/React-0F2027?style=flat-square&logo=react&logoColor=00C9A7" alt="React"><br/>
+      <img src="https://img.shields.io/badge/React%20Native-0F2027?style=flat-square&logo=react&logoColor=00C9A7" alt="React Native">
+    </td>
+    <td align="center" width="25%" valign="top">
+      <sub><b style="color: #2C5364; font-size: 13px; letter-spacing: 1px;">UI / ESTILOS</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-0F2027?style=flat-square&logo=tailwindcss&logoColor=00C9A7" alt="Tailwind CSS"><br/>
+      <img src="https://img.shields.io/badge/Framer%20Motion-0F2027?style=flat-square&logo=framer&logoColor=00C9A7" alt="Framer Motion"><br/>
+      <img src="https://img.shields.io/badge/Bootstrap-0F2027?style=flat-square&logo=bootstrap&logoColor=00C9A7" alt="Bootstrap"><br/>
+      <img src="https://img.shields.io/badge/SASS-0F2027?style=flat-square&logo=sass&logoColor=00C9A7" alt="SASS">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top" style="padding-top: 24px;">
+      <sub><b style="color: #2C5364; font-size: 13px; letter-spacing: 1px;">BASES DE DATOS</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=00C9A7" alt="PostgreSQL"><br/>
+      <img src="https://img.shields.io/badge/MySQL-0F2027?style=flat-square&logo=mysql&logoColor=00C9A7" alt="MySQL"><br/>
+      <img src="https://img.shields.io/badge/MongoDB-0F2027?style=flat-square&logo=mongodb&logoColor=00C9A7" alt="MongoDB">
+    </td>
+    <td align="center" width="25%" valign="top" style="padding-top: 24px;">
+      <sub><b style="color: #2C5364; font-size: 13px; letter-spacing: 1px;">INFRA & DEVOPS</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-0F2027?style=flat-square&logo=docker&logoColor=00C9A7" alt="Docker"><br/>
+      <img src="https://img.shields.io/badge/Git-0F2027?style=flat-square&logo=git&logoColor=00C9A7" alt="Git"><br/>
+    </td>
+    <td align="center" width="25%" valign="top" style="padding-top: 24px;">
+      <sub><b style="color: #2C5364; font-size: 13px; letter-spacing: 1px;">HERRAMIENTAS</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/VS%20Code-0F2027?style=flat-square&logo=visualstudiocode&logoColor=00C9A7" alt="VS Code"><br/>
+      <img src="https://img.shields.io/badge/Postman-0F2027?style=flat-square&logo=postman&logoColor=00C9A7" alt="Postman"><br/>
+      <img src="https://img.shields.io/badge/Figma-0F2027?style=flat-square&logo=figma&logoColor=00C9A7" alt="Figma"><br/>
+      <img src="https://img.shields.io/badge/Notion-0F2027?style=flat-square&logo=notion&logoColor=00C9A7" alt="Notion">
+    </td>
+    <td align="center" width="25%" valign="top" style="padding-top: 24px;">
+      <sub><b style="color: #2C5364; font-size: 13px; letter-spacing: 1px;">MOBILE</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Expo-0F2027?style=flat-square&logo=expo&logoColor=00C9A7" alt="Expo"><br/>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=avecesar1981&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avecesar1981&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<!-- DIVIDER -->
+<svg width="100%" height="24" viewBox="0 0 1200 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="12" x2="480" y2="12" stroke="url(#grad1)" stroke-width="1" stroke-dasharray="4 4"/>
+  <circle cx="600" cy="12" r="4" fill="#00C9A7"/>
+  <line x1="720" y1="12" x2="1200" y2="12" stroke="url(#grad2)" stroke-width="1" stroke-dasharray="4 4"/>
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2C5364"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+</svg>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avecesar1981&theme=tokyonight&hide_border=true" width="60%"/>
+<!-- PROYECTOS DESTACADOS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" height="20" alt="rocket">
+  &nbsp;
+  <b style="font-size: 20px; color: #2C5364; letter-spacing: 2px; text-transform: uppercase;">Proyectos Destacados</b>
+</div>
 
+<br/>
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 12px; padding-bottom: 16px;">
+
+      <div style="
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 24px 28px;
+        background: #ffffff;
+        min-height: 180px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        transition: box-shadow 0.2s ease;
+      ">
+
+        <div style="margin-bottom: 14px;">
+          <span style="
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #00C9A7;
+            margin-right: 10px;
+          "></span>
+          <b style="font-size: 18px; color: #0F2027;">Moscin Coop</b>
+        </div>
+
+        <div style="color: #4a5568; line-height: 1.7; font-size: 14px; margin-bottom: 18px;">
+          Sitio web profesional para una cooperativa vitivinicola chilena del Valle del Itata, con ecommerce integrado, autenticacion de usuarios y panel de administracion completo.
+        </div>
+
+        <div>
+          <img src="https://img.shields.io/badge/Next.js-0F2027?style=flat-square&logo=next.js&logoColor=00C9A7" alt="Next.js">
+          <img src="https://img.shields.io/badge/Tailwind%20CSS-0F2027?style=flat-square&logo=tailwindcss&logoColor=00C9A7" alt="Tailwind CSS">
+          <img src="https://img.shields.io/badge/Framer%20Motion-0F2027?style=flat-square&logo=framer&logoColor=00C9A7" alt="Framer Motion">
+          <img src="https://img.shields.io/badge/Stripe-0F2027?style=flat-square&logo=stripe&logoColor=00C9A7" alt="Stripe">
+        </div>
+
+      </div>
+
+    </td>
+    <td width="50%" valign="top" style="padding-left: 12px; padding-bottom: 16px;">
+
+      <div style="
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 24px 28px;
+        background: #ffffff;
+        min-height: 180px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        transition: box-shadow 0.2s ease;
+      ">
+
+        <div style="margin-bottom: 14px;">
+          <span style="
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #00C9A7;
+            margin-right: 10px;
+          "></span>
+          <b style="font-size: 18px; color: #0F2027;">ScanStock</b>
+        </div>
+
+        <div style="color: #4a5568; line-height: 1.7; font-size: 14px; margin-bottom: 18px;">
+          App movil de gestion de inventario offline-first para Android. Disenada para operar sin conexion y sincronizar datos de forma confiable con el servidor.
+        </div>
+
+        <div>
+          <img src="https://img.shields.io/badge/React%20Native-0F2027?style=flat-square&logo=react&logoColor=00C9A7" alt="React Native">
+          <img src="https://img.shields.io/badge/Expo-0F2027?style=flat-square&logo=expo&logoColor=00C9A7" alt="Expo">
+          <img src="https://img.shields.io/badge/FastAPI-0F2027?style=flat-square&logo=fastapi&logoColor=00C9A7" alt="FastAPI">
+          <img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=00C9A7" alt="PostgreSQL">
+          <img src="https://img.shields.io/badge/SQLite-0F2027?style=flat-square&logo=sqlite&logoColor=00C9A7" alt="SQLite">
+        </div>
+
+      </div>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- DIVIDER -->
+<svg width="100%" height="24" viewBox="0 0 1200 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="12" x2="480" y2="12" stroke="url(#grad1)" stroke-width="1" stroke-dasharray="4 4"/>
+  <circle cx="600" cy="12" r="4" fill="#00C9A7"/>
+  <line x1="720" y1="12" x2="1200" y2="12" stroke="url(#grad2)" stroke-width="1" stroke-dasharray="4 4"/>
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2C5364"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+</svg>
+
+<br/>
+
+<!-- ESTADISTICAS GITHUB -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20" height="20" alt="chart">
+  &nbsp;
+  <b style="font-size: 20px; color: #2C5364; letter-spacing: 2px; text-transform: uppercase;">Estadisticas de GitHub</b>
 </div>
 
 <br/>
 
 <div align="center">
 
-### 🤝 ¡Conectemos!
+  <img src="https://github-readme-stats.vercel.app/api?username=avecesar1981&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=ffffff&border_radius=8" width="48%" alt="GitHub Stats">
 
-Si quieres conversar sobre un proyecto, colaborar o simplemente intercambiar ideas, no dudes en escribirme.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avecesar1981&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=ffffff&border_radius=8&langs_count=6" width="40%" alt="Top Languages">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer"/>
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avecesar1981&theme=tokyonight&hide_border=true&background=0F2027&stroke=2C5364&ring=00C9A7&fire=00C9A7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C9A7&sideLabels=00C9A7&dates=8ba0b4&border_radius=8" width="60%" alt="GitHub Streak">
+
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<svg width="100%" height="24" viewBox="0 0 1200 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="12" x2="480" y2="12" stroke="url(#grad1)" stroke-width="1" stroke-dasharray="4 4"/>
+  <circle cx="600" cy="12" r="4" fill="#00C9A7"/>
+  <line x1="720" y1="12" x2="1200" y2="12" stroke="url(#grad2)" stroke-width="1" stroke-dasharray="4 4"/>
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2C5364"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+</svg>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+  <br/>
+
+  <sub style="color: #718096; font-size: 13px; letter-spacing: 1px;">ENCUENTRAME EN</sub>
+
+  <br/><br/>
+
+  <a href="https://twitter.com/0_0avecesar"><img src="https://img.shields.io/badge/Twitter-0F2027?style=flat-square&logo=x&logoColor=00C9A7" alt="Twitter"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=flat-square&logo=linkedin&logoColor=00C9A7" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:contacto@cruiz.cl"><img src="https://img.shields.io/badge/Email-0F2027?style=flat-square&logo=gmail&logoColor=00C9A7" alt="Email"></a>&nbsp;
+  <a href="https://cruiz.cl/cruiz/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=flat-square&logo=googlechrome&logoColor=00C9A7" alt="Portfolio"></a>
+
+  <br/><br/>
+
+  <sub style="color: #a0aec0;">
+    Diseñado con
+    <span style="color: #00C9A7;">&#x25C6;</span>
+    desde Chile
+  </sub>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%">
 
 </div>
