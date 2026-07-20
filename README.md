@@ -23,26 +23,23 @@
 
 ## 🧑‍💻 Sobre mí
 
-Construyo productos completos desde la base de datos hasta la ultima pantalla del usuario. Me adapto a la herramienta que el proyecto necesite, priorizando **arquitecturas limpias**, **buenas practicas de DevOps** y **experiencia de usuario**.
+¡Hola! Soy **César Ruiz**, Full Stack Developer de Chile. Construyo productos completos desde la base de datos hasta la última pantalla del usuario.
+
+- 🚀 Desarrollo aplicaciones **full stack** con foco en **Python** y **JavaScript**
+- 🐍 Backend con FastAPI, Node.js y bases de datos relacionales
+- ⚛️ Frontend con Next.js, React y React Native
+- 📱 Experiencia en apps **offline-first** para Android
+- 🌱 Siempre aprendiendo nuevas arquitecturas y buenas prácticas DevOps
 
 ```python
 class Cesar:
     def __init__(self):
         self.role = "Full Stack Developer"
-        self.location = "Chile"
+        self.location = "Chile 🇨🇱"
         self.stack = ["Python", "JavaScript", "FastAPI", "Next.js", "React Native"]
         self.focus = "Aplicaciones web y moviles end-to-end"
         self.always_learning = True
-
-    def say_hi(self):
-        print("Gracias por pasar por mi perfil! Construyo productos completos:")
-        print("desde la base de datos hasta la ultima pantalla del usuario.")
 ```
-
-- Desarrollo aplicaciones full stack con foco en **Python** y **JavaScript**.
-- Experiencia construyendo apps offline-first para Android, plataformas ecommerce, y paneles de administracion.
-- En constante aprendizaje de nuevas arquitecturas y buenas practicas.
-- Disponible para proyectos freelance y colaboraciones.
 
 <br/>
 
@@ -246,5 +243,3 @@ App movil de gestion de inventario **offline-first** para Android. Disenada para
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%">
 
 </div>
-
-
