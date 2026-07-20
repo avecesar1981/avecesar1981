@@ -13,7 +13,7 @@
 <a href="mailto:contacto@cruiz.cl">
   <img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>&nbsp;
-<a href="cruiz.netlify.app">
+<a href="https://cruiz.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=0F2027" alt="Portfolio">
 </a>
 
@@ -218,7 +218,7 @@ App movil de gestion de inventario **offline-first** para Android. Disenada para
   <a href="https://twitter.com/0_0avecesar"><img src="https://img.shields.io/badge/Twitter-0F2027?style=flat-square&logo=x&logoColor=00C9A7" alt="Twitter"></a>&nbsp;
   <a href="https://www.linkedin.com/in/c%C3%A9sar-ruiz-9077251b8/"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=flat-square&logo=linkedin&logoColor=00C9A7" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:contacto@cruiz.cl"><img src="https://img.shields.io/badge/Email-0F2027?style=flat-square&logo=gmail&logoColor=00C9A7" alt="Email"></a>&nbsp;
-  <a href="cruiz.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=flat-square&logo=googlechrome&logoColor=00C9A7" alt="Portfolio"></a>
+  <a href="https://cruiz.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=flat-square&logo=googlechrome&logoColor=00C9A7" alt="Portfolio"></a>
 
   <br/><br/>
 
