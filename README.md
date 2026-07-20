@@ -21,22 +21,9 @@
 
 <br/>
 
-<!-- SOBRE MI -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" height="20" alt="link">
-  &nbsp;
-  <b style="font-size: 20px; color: #2C5364; letter-spacing: 2px; text-transform: uppercase;">Sobre mi</b>
-</div>
-
-<br/>
-
-<div align="justify" style="color: #4a5568; line-height: 1.8; font-size: 15px;">
+## 🧑‍💻 Sobre mí
 
 Construyo productos completos desde la base de datos hasta la ultima pantalla del usuario. Me adapto a la herramienta que el proyecto necesite, priorizando **arquitecturas limpias**, **buenas practicas de DevOps** y **experiencia de usuario**.
-
-</div>
-
-<br/>
 
 ```python
 class Cesar:
@@ -52,16 +39,10 @@ class Cesar:
         print("desde la base de datos hasta la ultima pantalla del usuario.")
 ```
 
-<br/>
-
-<div align="justify" style="color: #4a5568; line-height: 1.8; font-size: 15px;">
-
 - Desarrollo aplicaciones full stack con foco en **Python** y **JavaScript**.
 - Experiencia construyendo apps offline-first para Android, plataformas ecommerce, y paneles de administracion.
 - En constante aprendizaje de nuevas arquitecturas y buenas practicas.
 - Disponible para proyectos freelance y colaboraciones.
-
-</div>
 
 <br/>
 
@@ -84,12 +65,7 @@ class Cesar:
 
 <br/>
 
-<!-- STACK TECNOLOGICO -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" height="20" alt="gear">
-  &nbsp;
-  <b style="font-size: 20px; color: #2C5364; letter-spacing: 2px; text-transform: uppercase;">Stack Tecnologico</b>
-</div>
+## 🛠️ Stack Tecnológico
 
 <br/>
 
@@ -167,12 +143,7 @@ class Cesar:
 
 <br/>
 
-<!-- PROYECTOS DESTACADOS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" height="20" alt="rocket">
-  &nbsp;
-  <b style="font-size: 20px; color: #2C5364; letter-spacing: 2px; text-transform: uppercase;">Proyectos Destacados</b>
-</div>
+## 🚀 Proyectos Destacados
 
 <br/>
 
@@ -211,12 +182,7 @@ App movil de gestion de inventario **offline-first** para Android. Disenada para
 
 <br/>
 
-<!-- ESTADISTICAS GITHUB -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20" height="20" alt="chart">
-  &nbsp;
-  <b style="font-size: 20px; color: #2C5364; letter-spacing: 2px; text-transform: uppercase;">Estadisticas de GitHub</b>
-</div>
+## 📊 Estadísticas de GitHub
 
 <br/>
 
@@ -280,4 +246,5 @@ App movil de gestion de inventario **offline-first** para Android. Disenada para
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%">
 
 </div>
+
 
