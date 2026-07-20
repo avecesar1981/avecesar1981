@@ -39,6 +39,10 @@ class Cesar:
         self.stack = ["Python", "JavaScript", "FastAPI", "Next.js", "React Native"]
         self.focus = "Aplicaciones web y moviles end-to-end"
         self.always_learning = True
+
+    def say_hi(self):
+        print("Gracias por pasar por mi perfil! Construyo productos completos:")
+        print("desde la base de datos hasta la ultima pantalla del usuario.")
 ```
 
 <br/>
