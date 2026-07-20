@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=240&section=header&text=Cesar%20Ruiz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Construyendo%20productos%20end-to-end&descAlignY=54&descAlign=50" width="100%">
@@ -31,34 +30,36 @@
 
 <br/>
 
+<div align="justify" style="color: #4a5568; line-height: 1.8; font-size: 15px;">
+
+Construyo productos completos desde la base de datos hasta la ultima pantalla del usuario. Me adapto a la herramienta que el proyecto necesite, priorizando **arquitecturas limpias**, **buenas practicas de DevOps** y **experiencia de usuario**.
+
+</div>
+
+<br/>
+
 ```python
 class Cesar:
-    """Full Stack Developer basado en Chile."""
-
     def __init__(self):
         self.role = "Full Stack Developer"
         self.location = "Chile"
-        self.stack = {
-            "languages": ["Python", "JavaScript"],
-            "backend": ["FastAPI", "Node.js"],
-            "frontend": ["Next.js", "React", "React Native"],
-        }
-        self.focus = (
-            "Aplicaciones web y moviles end-to-end, "
-            "desde la base de datos hasta la ultima pantalla del usuario."
-        )
+        self.stack = ["Python", "JavaScript", "FastAPI", "Next.js", "React Native"]
+        self.focus = "Aplicaciones web y moviles end-to-end"
         self.always_learning = True
 
-    def build(self, product):
-        return f"Construyendo {product} con arquitectura limpia y experiencia de usuario solida."
-
-    def collaborate(self):
-        return "Disponible para proyectos freelance y colaboraciones."
+    def say_hi(self):
+        print("Gracias por pasar por mi perfil! Construyo productos completos:")
+        print("desde la base de datos hasta la ultima pantalla del usuario.")
 ```
 
-<div align="justify" style="color: #555; line-height: 1.7;">
+<br/>
 
-Desarrollo aplicaciones full stack con foco en **Python** y **JavaScript**. Experiencia construyendo apps offline-first para Android, plataformas ecommerce, y paneles de administracion completos. Me adapto a la herramienta que el proyecto necesite, priorizando arquitecturas limpias y buenas practicas de DevOps.
+<div align="justify" style="color: #4a5568; line-height: 1.8; font-size: 15px;">
+
+- Desarrollo aplicaciones full stack con foco en **Python** y **JavaScript**.
+- Experiencia construyendo apps offline-first para Android, plataformas ecommerce, y paneles de administracion.
+- En constante aprendizaje de nuevas arquitecturas y buenas practicas.
+- Disponible para proyectos freelance y colaboraciones.
 
 </div>
 
@@ -175,87 +176,19 @@ Desarrollo aplicaciones full stack con foco en **Python** y **JavaScript**. Expe
 
 <br/>
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 12px; padding-bottom: 16px;">
+### 🍇 Moscin Coop
 
-      <div style="
-        border: 1px solid #e2e8f0;
-        border-radius: 12px;
-        padding: 24px 28px;
-        background: #ffffff;
-        min-height: 180px;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-        transition: box-shadow 0.2s ease;
-      ">
+Sitio web profesional para una cooperativa vitivinicola chilena del Valle del Itata, con ecommerce integrado, autenticacion de usuarios y panel de administracion completo.
 
-        <div style="margin-bottom: 14px;">
-          <span style="
-            display: inline-block;
-            width: 10px;
-            height: 10px;
-            border-radius: 50%;
-            background: #00C9A7;
-            margin-right: 10px;
-          "></span>
-          <b style="font-size: 18px; color: #0F2027;">Moscin Coop</b>
-        </div>
+`Next.js` `Tailwind CSS` `Framer Motion` `Stripe`
 
-        <div style="color: #4a5568; line-height: 1.7; font-size: 14px; margin-bottom: 18px;">
-          Sitio web profesional para una cooperativa vitivinicola chilena del Valle del Itata, con ecommerce integrado, autenticacion de usuarios y panel de administracion completo.
-        </div>
+<br/>
 
-        <div>
-          <img src="https://img.shields.io/badge/Next.js-0F2027?style=flat-square&logo=next.js&logoColor=00C9A7" alt="Next.js">
-          <img src="https://img.shields.io/badge/Tailwind%20CSS-0F2027?style=flat-square&logo=tailwindcss&logoColor=00C9A7" alt="Tailwind CSS">
-          <img src="https://img.shields.io/badge/Framer%20Motion-0F2027?style=flat-square&logo=framer&logoColor=00C9A7" alt="Framer Motion">
-          <img src="https://img.shields.io/badge/Stripe-0F2027?style=flat-square&logo=stripe&logoColor=00C9A7" alt="Stripe">
-        </div>
+### 📦 ScanStock
 
-      </div>
+App movil de gestion de inventario **offline-first** para Android. Disenada para operar sin conexion y sincronizar datos de forma confiable con el servidor.
 
-    </td>
-    <td width="50%" valign="top" style="padding-left: 12px; padding-bottom: 16px;">
-
-      <div style="
-        border: 1px solid #e2e8f0;
-        border-radius: 12px;
-        padding: 24px 28px;
-        background: #ffffff;
-        min-height: 180px;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-        transition: box-shadow 0.2s ease;
-      ">
-
-        <div style="margin-bottom: 14px;">
-          <span style="
-            display: inline-block;
-            width: 10px;
-            height: 10px;
-            border-radius: 50%;
-            background: #00C9A7;
-            margin-right: 10px;
-          "></span>
-          <b style="font-size: 18px; color: #0F2027;">ScanStock</b>
-        </div>
-
-        <div style="color: #4a5568; line-height: 1.7; font-size: 14px; margin-bottom: 18px;">
-          App movil de gestion de inventario offline-first para Android. Disenada para operar sin conexion y sincronizar datos de forma confiable con el servidor.
-        </div>
-
-        <div>
-          <img src="https://img.shields.io/badge/React%20Native-0F2027?style=flat-square&logo=react&logoColor=00C9A7" alt="React Native">
-          <img src="https://img.shields.io/badge/Expo-0F2027?style=flat-square&logo=expo&logoColor=00C9A7" alt="Expo">
-          <img src="https://img.shields.io/badge/FastAPI-0F2027?style=flat-square&logo=fastapi&logoColor=00C9A7" alt="FastAPI">
-          <img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=00C9A7" alt="PostgreSQL">
-          <img src="https://img.shields.io/badge/SQLite-0F2027?style=flat-square&logo=sqlite&logoColor=00C9A7" alt="SQLite">
-        </div>
-
-      </div>
-
-    </td>
-  </tr>
-</table>
+`React Native (Expo)` `FastAPI` `PostgreSQL` `SQLite`
 
 <br/>
 
@@ -347,3 +280,4 @@ Desarrollo aplicaciones full stack con foco en **Python** y **JavaScript**. Expe
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%">
 
 </div>
+
